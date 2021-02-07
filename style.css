@@ -1,0 +1,62 @@
+h1,h4{
+    color:white;
+    text-align: center;
+    font-family: Georgia;
+ }
+ .header{
+     background-color:deeppink;
+     display:flex;
+     justify-content: space-between;
+ }
+ .grid{
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+ }
+ body{
+     background-color:black;
+ }
+ .footer{
+     display:flex;
+     justify-content: flex-start;
+     margin-left:15px;
+ }
+ .footer img{
+     margin-left:15px;
+ }
+ p{
+     text-align:center;
+     font-size: 20px;
+     font-family:Georgia;
+ }
+ h3{
+     text-align:center;
+    color:cyan;
+    font-family:Georgia;
+ }
+ /* }
+a:link{
+  color:darkblue;
+}
+a:visited{
+   color:white; 
+}
+.menu a{
+    margin-left: 15px;
+}
+.item{
+   position:relative;  
+}
+.item p{
+    position:absolute;
+    top:45%;
+    left:20%;
+    opacity: 0;
+}
+.item:hover p{
+    opacity: 1;
+}
+.item:hover img{
+    opacity:0.33;
+} */
+ 
